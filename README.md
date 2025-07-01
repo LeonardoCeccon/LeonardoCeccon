@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Leonardo Sanches Ceccon and I'm a Software Enginner Student focused on data analysis. Here you will find some of my projects and personal studies.</h2>
+<h2 align="left">Hi! My name is Leonardo Sanches Ceccon and i'm a Software Enginner Student focused on data analysis. Here you will find some of my projects and personal studies.</h2>
 
 ###
 
