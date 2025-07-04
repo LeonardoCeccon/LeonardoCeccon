@@ -9,12 +9,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/LeonardoCeccon/LeonardoCeccon/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge" height="40" alt="pycharm logo"  />
   <img width="12" />
